@@ -49,6 +49,5 @@ No code or setup needed. Excel only.
 ## 💡 Recommendation
 Focus marketing on West region and give extra offers to Platinum & Gold customers. Sales can improve by 10-15% in next quarter.
 
-## 👤 Author
-[Your Name]
+
 Capstone Project - E-Commerce Sales Analysis
